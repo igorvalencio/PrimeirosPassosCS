@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSAlura", "CSAlura\CSAlura.csproj", "{9CD4B4B2-E8DD-4403-A12A-80213B906A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD4B4B2-E8DD-4403-A12A-80213B906A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD4B4B2-E8DD-4403-A12A-80213B906A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD4B4B2-E8DD-4403-A12A-80213B906A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD4B4B2-E8DD-4403-A12A-80213B906A94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DE4492E-271D-4DAA-B046-D05583557E3B}
+	EndGlobalSection
+EndGlobal
