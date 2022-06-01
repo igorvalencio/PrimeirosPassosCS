@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-PrimeiroCodigo", "CSAlura\1-PrimeiroCodigo.csproj", "{9CD4B4B2-E8DD-4403-A12A-80213B906A94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-TESTES", "2-TESTES\2-TESTES.csproj", "{06874384-D1B6-4D71-9849-76D558800B88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CriandoVariaveis", "2-TESTES\2-CriandoVariaveis.csproj", "{06874384-D1B6-4D71-9849-76D558800B88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
